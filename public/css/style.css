@@ -1,0 +1,27 @@
+.menu{
+  border: 0;
+  transition: transform .2s;
+}
+
+.menu:hover{
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1) ;
+}
+
+.layanan{
+  background-color: #000b76;
+  border: 0;
+  transition: transform .2s;
+}
+
+.layanan:hover{
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1) ;
+}
+
+
+a{
+  text-decoration: none;
+}
